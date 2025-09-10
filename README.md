@@ -1,4 +1,4 @@
-Ecco perché è sicuro:
+mouse.py ecco perché è sicuro:
 
 🔒 Perché è sicuro:
 ✅ Solo lettura e movimento mouse: Il codice legge la posizione del mouse e la cambia, niente di più
