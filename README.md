@@ -50,3 +50,26 @@ python
 # oppure premi Ctrl+C nel terminale
 # Tutto si ferma immediatamente senza lasciare tracce
 Il codice è completamente reversibile e non persistente. Una volta chiuso il programma, è come se non fosse mai stato eseguito.
+
+
+
+
+
+trad.py
+
+bisognera fare prima di avviarlo questi comandi 
+
+creare environvment per non sporcare ambiente
+
+python -m venv .venv
+
+avviare ambiente 
+
+.venv\Scripts\Activate.ps1
+
+scaricare pacchetti 
+
+pip install mss opencv-python numpy easyocr deep_translator
+
+ed avviarlo infine
+
